@@ -1,4 +1,5 @@
-=== XT Event Widget for Social Events ==
+=== XT Event Widget for Social Events ===
+
 Contributors: xylus,Dharm1025
 Donate link: http://xylusthemes.com/
 Tags: facebook, facebook widget, facebook event, facebook events, event, event list, facebook event list, embed facebook, embed facebook events, widget, shortcode, event widget, facebook event widget, event shortcode
@@ -11,16 +12,19 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Easiest way to display Facebook events from your Facebook page to your website using widget or shortcode.
 
 == Description ==
- <h2> Facebook Event Widget </h2> renamed to XT Social Event Widget.
-<h3>NOTICE:</h3>
->**You need below things to work Custom Facebook Event widget using API.**
->
->* Facebook app ([Here](http://docs.xylusthemes.com/docs/import-facebook-events/creating-facebook-application/) is how to create FB app)
->* Your site need to HTTPS (SSL certificate)
->* You need to mark events as interested or going on facebook to get imported
->
->**Also, We have added support for Facebook's Embeddable page widget. So, you can show your page's event on your website using it.**
->
+
+Facebook Event Widget renamed to **XT Social Event Widget**.
+
+NOTICE:
+
+**You need below things to work Custom Facebook Event widget using API.**
+
+* Facebook app ([Here](http://docs.xylusthemes.com/docs/import-facebook-events/creating-facebook-application/) is how to create FB app)
+* Your site need to HTTPS (SSL certificate)
+* You need to mark events as interested or going on facebook to get imported
+
+**Also, We have added support for Facebook's Embeddable page widget. So, you can show your page's event on your website using it.**
+
 
 XT Widget for Facebook Events allow you to display Facebook events from your Facebook page to your website using widget or shortcode.
 
@@ -39,22 +43,23 @@ You can add Facebook App ID and Facebook Secret in "Facebook Events" Menu.
 * <strong>Using Shortcode:</strong> You can display Facebook Events (Facebook's Embeddable page widget) any where in your website using Shortcode. example shortcode: <strong>[fb_event_widget page_url="https://www.facebook.com/redbull/" width="340" height="500" hide_cover="false" hide_cta="true" small_header="true"]</strong>
 * <strong>Using WP widget:</strong> You can display Facebook Events (Facebook's Embeddable page widget) using WP widget called "Facebook Page Event Widget".
 
-><strong>New All in one Event Import Tool!</strong><br>
->We've developed bulk events import tool. This add-on service for The Events Calendar allows you import events from your favorite sources like Facebook, Meetup, Eventbrite, iCalendar, and ICS.
->
->[Check out WP Event Aggregator now](https://wordpress.org/plugins/wp-event-aggregator/).
->
+<strong>New All in one Event Import Tool!</strong>
+
+We've developed bulk events import tool. This add-on service for The Events Calendar allows you import events from your favorite sources like Facebook, Meetup, Eventbrite, iCalendar, and ICS.
+
+[Check out WP Event Aggregator now](https://wordpress.org/plugins/wp-event-aggregator/).
+
 
  
-><strong>Our Plugins for importing events!</strong>
-> 
+<strong>Our Plugins for importing events!</strong>
+ 
 * [WP Event Aggregator](https://wordpress.org/plugins/wp-event-aggregator/)
 * [Import Social Events](https://wordpress.org/plugins/import-facebook-events/)
 * [Import Eventbrite Events](https://wordpress.org/plugins/import-eventbrite-events/)
 * [Import Meetup Events](https://wordpress.org/plugins/import-meetup-events/)
 * [Event Schema / Structured Data](https://wordpress.org/plugins/event-schema/)
 * [WP Bulk Delete](https://wordpress.org/plugins/wp-bulk-delete/)
->
+
 
 == Screenshots ==
 
