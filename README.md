@@ -1,4 +1,4 @@
-=== XT Event Widget for Social Events ===
+## XT Event Widget for Social Events
 
 Contributors: xylus,Dharm1025
 Donate link: http://xylusthemes.com/
@@ -11,7 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Easiest way to display Facebook events from your Facebook page to your website using widget or shortcode.
 
-== Description ==
+ ### Description
 
 Facebook Event Widget renamed to **XT Social Event Widget**.
 
@@ -61,7 +61,7 @@ We've developed bulk events import tool. This add-on service for The Events Cale
 * [WP Bulk Delete](https://wordpress.org/plugins/wp-bulk-delete/)
 
 
-== Screenshots ==
+### Screenshots
 
 1. Facebook events widget.
 2. Display Facebook events widget front-end side.
@@ -73,16 +73,16 @@ We've developed bulk events import tool. This add-on service for The Events Cale
 8. Settings.
 
 
-== Installation ==
+### Installation
 
-= This plugin can be installed directly from your site. =
+#### This plugin can be installed directly from your site.
 
 1. Log in and navigate to Plugins & Add New.
 2. Type "XT Widget for Facebook Events" into the Search input and click the "Search" button.
 3. Locate the "XT Widget for Facebook Events" in the list of search results and click "Install Now".
 4. Click the "Activate Plugin" link at the bottom of the install screen.
 
-= It can also be installed manually. =
+#### It can also be installed manually. 
 
 1. Download the "XT Widget for Facebook Events" plugin from WordPress.org.
 2. Unzip the package and move to your plugins directory.
@@ -90,27 +90,27 @@ We've developed bulk events import tool. This add-on service for The Events Cale
 4. Locate "XT Facebook Events" in the list and click the "Activate" link.
 
 
-== Changelog ==
+### Changelog 
 
-= 1.1.3 =
+#### 1.1.3 
 * ADDED: Localized Date lables.
 * IMPROVEMENTS: Updated to Facebook API Version 7.0
 * FIXED: few pages were not fetching events issue.
 * FIXED: showing past events for /me page id issue.
 
-= 1.1.2 =
+#### 1.1.2 
 * ADDED: Recurring Events Support
 * ADDED: Accent color settings
 * IMPROVEMENTS: Some Code imporvements.
 * FIXED: Some bug fixes.
 
-= 1.1.1 =
+#### 1.1.1 
 * ADDED: Clear Cache button for manually clear cache.
 * IMPROVEMENTS: Reduced Cache TTL.
 * IMPROVEMENTS: Some Code imporvements.
 * FIXED: Some bug fixes.
 
-= 1.1.0 =
+#### 1.1.0 
 * ADDED: Facebook Authorization for make custom Facebook widget working.
 * ADDED: support for WP 5.0
 * ADDED: Gutenberg Block for Facebook Events.
@@ -118,15 +118,15 @@ We've developed bulk events import tool. This add-on service for The Events Cale
 * IMPROVEMENTS: Some Code imporvements.
 * FIXED: Some bug fixes.
 
-= 1.0.2 =
+#### 1.0.2 
 * ADDED: Support for Facebook events using Page widget (Facebook's Embeddable page widget)
 * ADDED: Shortcode for Facebook Page widget example: [fb_event_widget page_url="https://www.facebook.com/redbull/" width="340" height="500" hide_cover="false" hide_cta="true" small_header="true"]
 * ADDED: WP Widget for Facebook Page widget
 * FIXED: Some bug fixes.
 
-= 1.0.1 =
+#### 1.0.1 
 * FIXED: Some bug fixes.
 * FIXED: Wrong Time Display (Timezone Error) issue.
 
-= 1.0.0 =
+#### 1.0.0 
 * Initial Version.
